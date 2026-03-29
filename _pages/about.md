@@ -19,9 +19,9 @@ My research interest includes computer vision and computer graphics.
 # News
 
 - Three papers accepted by CVPR 26.
-- one paper accepted by 3DV 26.
-- one paper accepted by AAAI 25.
-- one paper accepted by CVPR 25.
+- One paper accepted by 3DV 26.
+- One paper accepted by AAAI 25.
+- One paper accepted by CVPR 25.
 
 <span class='anchor' id='publications'></span>
 
