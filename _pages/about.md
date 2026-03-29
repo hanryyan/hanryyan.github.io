@@ -12,7 +12,7 @@ redirect_from:
 
 # About Me
 
-Replace this paragraph with a short bio: affiliation, research interests, and anything you want visitors to see first.
+Hongyu Yan — research interests include 3D vision and point cloud understanding. (Edit this bio with your affiliation and links.)
 
 <span class='anchor' id='news'></span>
 
@@ -24,16 +24,16 @@ Replace this paragraph with a short bio: affiliation, research interests, and an
 
 # Publications
 
-<div class='paper-box'><div class='paper-box-image'><img src='images/placeholder-paper.svg' alt="Paper thumbnail placeholder" width="100%"></div>
+<div class='paper-box'><div class='paper-box-image'><img src='collections/2025/symm.png' alt="SymmCompletion" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
-**Paper Title (placeholder)**
+**SymmCompletion: High-Fidelity and High-Consistency Point Cloud Completion with Symmetry Guidance**
 
-*Conference or Journal (**Abbrev**), Year*
+*Thirty-Ninth AAAI Conference on Artificial Intelligence (**AAAI**), 2025* <span style="color:red">**Oral presentation**</span>
 
-**Your Name**, Coauthor One, Coauthor Two
+**Hongyu Yan**, Zijun Li, Kunming Luo, Li Lu, Ping Tan
 
-[Paper](https://example.com) \| [Code](https://example.com) \| BibTeX
+[Paper](https://arxiv.org/pdf/2503.18007) \| [Code](https://github.com/HKUST-SAIL/SymmCompletion) \| [BibTex](collections/2025/symm.md)
 </div>
 </div>
 
