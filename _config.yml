@@ -7,12 +7,12 @@
 
 # Site Settings
 title                    : "Hongyu Yan"
-description              : # One-line subtitle shown in the sidebar (optional)
+description              : "Hong Kong University of Science and Technology (HKUST)"
 google_scholar_stats_use_cdn : true
 google_scholar_stats_enabled : false
 
 # google analytics (leave empty to disable)
-google_analytics_id      :
+google_analytics_id      : # "TeKnXhkAAAAJ"
 
 # SEO Related
 google_site_verification :  # get google_site_verification from https://search.google.com/search-console/about
@@ -21,13 +21,13 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Hongyu Yan"
-  avatar           : "images/avatar-placeholder.svg"
+  name             : "Hongyu Yan (阎鸿禹)"
+  avatar           : "images/me.jpg"
   bio              : # Short bio under your name (optional)
   employer         :
   pubmed           : 
-  email            : "you@example.com"
-  googlescholar    : # e.g. "https://scholar.google.com/citations?user=..."
+  email            : "hongyuyan.cn@gmail.com"
+  googlescholar    : "https://scholar.google.com/citations?user=TeKnXhkAAAAJ
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -36,8 +36,8 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "hanry"
-  location         : "Your City"
+  github           : "hanryyan"
+  location         : "Hong Kong"
   google_plus      :
   keybase          :
   instagram        :
