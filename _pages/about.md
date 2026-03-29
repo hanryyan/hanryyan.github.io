@@ -11,7 +11,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # About Me
-I received my M.S. degrees at the [Sichuan University of China (SCU)](https://www.scu.edu.cn) in 2020 and 2023. Now I am a PhD student in the [Hong Kong University of Science and Technology(HKUST)](https://hkust.edu.hk/), supervised by [Prof. Ping Tan](https://scholar.google.com/citations?user=XhyKVFMAAAAJ&hl=zh-CN).
+I received my M.S. degrees at the [Sichuan University of China (SCU)](https://www.scu.edu.cn) from 2020 to 2023. Now I am a PhD student in the [Hong Kong University of Science and Technology(HKUST)](https://hkust.edu.hk/), supervised by [Prof. Ping Tan](https://scholar.google.com/citations?user=XhyKVFMAAAAJ&hl=zh-CN).
 My research interest includes computer vision and computer graphics.
 
 <span class='anchor' id='news'></span>
