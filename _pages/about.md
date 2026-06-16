@@ -179,7 +179,7 @@ Xuejun Yan\*, **Hongyu Yan**\*, Jingjing Wang, Hang Du, Zhihong Wu, Di Xie, Shil
 
 # Experience
 
-- *2024.09-2026.03*, Research Intern, Tencent Hunyuan
+- *2024.09-2026.03*, Research Intern, Tencent Hunyuan3D
 - *2022.11-2023.06*, Research Intern, Megvii Research
 - *2021.09-2022.09*, Research Intern, HIK Vision
 
