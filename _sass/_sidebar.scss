@@ -103,6 +103,31 @@
   }
 }
 
+.author__wechat {
+  text-align: center;
+  margin: 0.5em 0 1em;
+
+  &-title {
+    margin-bottom: 0.25em;
+    font-size: $type-size-5;
+    font-family: $sans-serif-narrow;
+  }
+
+  img {
+    display: block;
+    margin: 0 auto;
+    max-width: 175px;
+    min-width: 75px;
+    width: 100%;
+    border-radius: 0;
+
+    @include breakpoint($large) {
+      padding: 5px;
+      border: 1px solid $border-color;
+    }
+  }
+}
+
 .author__content {
   display: table-cell;
   vertical-align: top;

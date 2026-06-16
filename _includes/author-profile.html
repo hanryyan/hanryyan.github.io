@@ -19,6 +19,14 @@
       {% if site.description %}
         <li><div style="white-space: normal; margin-bottom: 1em;">{{ site.description }}</div></li>
       {% endif %}
+      {% if author.wechat %}
+        <li>
+          <div class="author__wechat">
+            <h3 class="author__wechat-title">WeChat</h3>
+            <img src="{{ author.wechat }}" alt="WeChat QR code">
+          </div>
+        </li>
+      {% endif %}
       {% if author.location %}
         <li><i class="fa fa-fw fa-map-marker" aria-hidden="true"></i> {{ author.location }}</li>
       {% endif %}

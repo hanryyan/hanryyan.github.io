@@ -23,6 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Hongyu Yan (阎鸿禹)"
   avatar           : "images/me.jpg"
+  wechat           : "images/WeChat.png"
   bio              : # Short bio under your name (optional)
   employer         :
   pubmed           : 
