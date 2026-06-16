@@ -11,8 +11,11 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # About Me
-I received my M.S. degrees at the [Sichuan University of China (SCU)](https://www.scu.edu.cn) from 2020 to 2023. Now I am a PhD student in the [Hong Kong University of Science and Technology(HKUST)](https://hkust.edu.hk/), supervised by [Prof. Ping Tan](https://scholar.google.com/citations?user=XhyKVFMAAAAJ&hl=zh-CN).
-My research interest includes computer vision and computer graphics.
+- 🎓 I am currently a Ph.D. student at **[HKUST](https://hkust.edu.hk/)**, supervised by **[Prof. Ping Tan](https://scholar.google.com/citations?user=XhyKVFMAAAAJ&hl=en)**.
+- 🏫 Previously, I received my M.S. degree from **[Sichuan University (SCU)](https://www.scu.edu.cn)** (2020–2023).
+- 🔭 My research focuses on **3D foundation models** (e.g., vecset/voxel-based 3D native generation, diffusion-based artist-like mesh generation).
+- 🌱 I am also exploring and deeply interested in 3D animation, specifically **rigging and skinning**.
+- 💼 I am expected to graduate in **2027**. I'm open to collaborations and career opportunities in the 3D industry.
 
 <span class='anchor' id='news'></span>
 
